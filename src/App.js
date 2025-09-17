@@ -4,6 +4,7 @@ import Header from './components/header';
 import Footer from './components/footer';
 import CompanyLogo from './images/flowswitch-icon.png';
 import CompanyFullLogo from './images/flowswitch-logo.png';
+import CompanyFullLogoBright from './images/flowswitch-logo-bright.png';
 
 const App = () => {
   return (
@@ -13,7 +14,7 @@ const App = () => {
         {/* Hero Section */}
         <section className="bg-gradient-to-r from-lime-600 to-green-700 text-white py-20 px-4 md:px-8 lg:px-16">
           <div className="max-w-7xl mx-auto text-center">
-            <img src={CompanyFullLogo} alt="FlowSwitch Logo" className="mx-auto h-20 mb-6" />
+            <img src={CompanyFullLogoBright} alt="FlowSwitch Logo" className="mx-auto h-20 mb-6" />
             <h1 className="text-4xl md:text-5xl font-bold mb-4">Welcome to FlowSwitch</h1>
             <p className="text-lg md:text-xl mb-8 max-w-2xl mx-auto">
               FlowSwitch is a powerful platform connecting merchants and agents for seamless business operations. Whether you're a company looking to manage your sales or an agent handling floats and verifications, FlowSwitch streamlines your workflow with secure, efficient tools.
