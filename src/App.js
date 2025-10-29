@@ -20,7 +20,7 @@ const App = () => {
               FlowSwitch is a powerful platform connecting merchants and agents for seamless business operations. Whether you're a company looking to manage your sales or an agent handling floats and verifications, FlowSwitch streamlines your workflow with secure, efficient tools.
             </p>
             <div className="flex justify-center space-x-4">
-              <a href="https://merchant.flowswitchapi.com" className="bg-white text-lime-600 px-6 py-3 rounded-md font-semibold hover:bg-gray-100 transition">
+              <a href="https://merchantadmin.flowswitchapi.com" className="bg-white text-lime-600 px-6 py-3 rounded-md font-semibold hover:bg-gray-100 transition">
                 Login as Merchant Admin
               </a>
               <a href="https://agents.flowswitchapi.com" className="bg-white text-lime-600 px-6 py-3 rounded-md font-semibold hover:bg-gray-100 transition">
@@ -71,7 +71,7 @@ const App = () => {
             <h2 className="text-3xl font-bold mb-4">Ready to Get Started?</h2>
             <p className="text-lg mb-8">Join FlowSwitch today and optimize your business processes.</p>
             <div className="flex justify-center space-x-4">
-              <a href="https://merchant.flowswitchapi.com" className="bg-white text-lime-600 px-6 py-3 rounded-md font-semibold hover:bg-gray-100 transition">
+              <a href="https://merchantadmin.flowswitchapi.com" className="bg-white text-lime-600 px-6 py-3 rounded-md font-semibold hover:bg-gray-100 transition">
                 Merchant Portal
               </a>
               <a href="https://agents.flowswitchapi.com" className="bg-white text-lime-600 px-6 py-3 rounded-md font-semibold hover:bg-gray-100 transition">
